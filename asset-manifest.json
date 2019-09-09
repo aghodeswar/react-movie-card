@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aghodeswar/react-movie-card/static/css/main.55ce90a4.chunk.css",
-    "main.js": "/aghodeswar/react-movie-card/static/js/main.f64f5add.chunk.js",
-    "main.js.map": "/aghodeswar/react-movie-card/static/js/main.f64f5add.chunk.js.map",
-    "runtime~main.js": "/aghodeswar/react-movie-card/static/js/runtime~main.022f780f.js",
-    "runtime~main.js.map": "/aghodeswar/react-movie-card/static/js/runtime~main.022f780f.js.map",
-    "static/js/2.6f78c295.chunk.js": "/aghodeswar/react-movie-card/static/js/2.6f78c295.chunk.js",
-    "static/js/2.6f78c295.chunk.js.map": "/aghodeswar/react-movie-card/static/js/2.6f78c295.chunk.js.map",
-    "index.html": "/aghodeswar/react-movie-card/index.html",
-    "precache-manifest.e3bc1e00cfa83c7ddbab8c2d49d3ebe3.js": "/aghodeswar/react-movie-card/precache-manifest.e3bc1e00cfa83c7ddbab8c2d49d3ebe3.js",
-    "service-worker.js": "/aghodeswar/react-movie-card/service-worker.js",
-    "static/css/main.55ce90a4.chunk.css.map": "/aghodeswar/react-movie-card/static/css/main.55ce90a4.chunk.css.map"
+    "main.css": "/react-movie-card/static/css/main.55ce90a4.chunk.css",
+    "main.js": "/react-movie-card/static/js/main.40906d07.chunk.js",
+    "main.js.map": "/react-movie-card/static/js/main.40906d07.chunk.js.map",
+    "runtime~main.js": "/react-movie-card/static/js/runtime~main.47ac9932.js",
+    "runtime~main.js.map": "/react-movie-card/static/js/runtime~main.47ac9932.js.map",
+    "static/js/2.6f78c295.chunk.js": "/react-movie-card/static/js/2.6f78c295.chunk.js",
+    "static/js/2.6f78c295.chunk.js.map": "/react-movie-card/static/js/2.6f78c295.chunk.js.map",
+    "index.html": "/react-movie-card/index.html",
+    "precache-manifest.0db70e0194e9fcd52c11032d9b0c858a.js": "/react-movie-card/precache-manifest.0db70e0194e9fcd52c11032d9b0c858a.js",
+    "service-worker.js": "/react-movie-card/service-worker.js",
+    "static/css/main.55ce90a4.chunk.css.map": "/react-movie-card/static/css/main.55ce90a4.chunk.css.map"
   }
 }
