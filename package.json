@@ -2,7 +2,7 @@
   "name": "react-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/aghodeswar/react-movie-card",
+  "homepage": "https://aghodeswar.github.io/react-movie-card/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "node-sass": "^4.12.0",
