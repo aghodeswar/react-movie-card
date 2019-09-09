@@ -1,0 +1,14 @@
+@import "scss/partial/variables.scss";
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
+
+// Import our common scss and compoenent files
+@import "scss/component/base";
+
+.App {  
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;  
+  color: white;
+}
