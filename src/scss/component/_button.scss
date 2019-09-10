@@ -1,0 +1,4 @@
+.btn-light:not(:disabled):not(.disabled):active:focus,
+.btn-light:focus, .btn-light.focus {
+    box-shadow: none;
+}

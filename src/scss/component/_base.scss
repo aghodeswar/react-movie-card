@@ -1,0 +1,44 @@
+.wrapper {
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+.App {  
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    font-family: 'Bitter', serif;
+
+    &::before {        
+        content: "";
+        background-image: url('/background-img.jpeg');
+        top: 0;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        background-repeat: no-repeat;
+        right: 0;
+        background-position-x: right;
+        z-index: 0;
+    }
+    &::after {
+        content:"";
+        position:absolute;
+        top:0;
+        bottom:0;
+        left:-20vw;
+        width: 80vw;
+        background:$gray-600;
+        transform:skew(-30deg);
+        z-index: 0;
+    }
+  }
+  .launch-heading {
+      line-height: 60px;
+      font-size: 3rem;
+  }
