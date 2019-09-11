@@ -4,19 +4,19 @@
     z-index: 1;
 }
 .App {  
-    background-color: #282c34;
+    background-color: $page-bg-color;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     font-size: calc(10px + 2vmin);
-    color: white;
-    font-family: 'Bitter', serif;
+    color: $white;
+    font-family: $base-font-family;
 
     &::before {        
         content: "";
-        background-image: url('/background-img.jpeg');
+        background-image: $launch-page-bg-img;
         top: 0;
         position: fixed;
         width: 100%;
@@ -25,6 +25,7 @@
         right: 0;
         background-position-x: right;
         z-index: 0;
+        background-size: cover;
     }
     &::after {
         content:"";
@@ -33,7 +34,7 @@
         bottom:0;
         left:-20vw;
         width: 80vw;
-        background:$gray-600;
+        background:$light-gray;
         transform:skew(-30deg);
         z-index: 0;
     }
